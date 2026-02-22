@@ -29,3 +29,9 @@
 .login-button{
     margin-top: 20px;
 }
+.login-block{
+border: 2px solid black;
+    width: 214px;
+    margin: auto;
+    padding: 10px;
+}
