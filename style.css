@@ -1,4 +1,4 @@
-.name-a{
+/* .name-a{
         margin: 30px 20px;
     border: 1px solid #161313;
     padding-top: 13px;
@@ -8,4 +8,21 @@
     border-radius: 30px;
     color: #0c0e0d;
 
+} */
+
+
+.label-name{
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+
+.user-name{
+    height: 26px;
+    margin: -2px;
+    border-radius: 9px;
+    border: 1px solid black;
+    background: #3ba6b3;
+    color: #c35a5a;
 }
