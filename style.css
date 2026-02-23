@@ -73,9 +73,16 @@ border: 2px solid black;
     width: 177px;
     border-radius: 12px;
 }
-.login block{
+.login-block{
      border: 1px solid black;
     width: 241px;
     padding: 23px;
     background: pink;
+}
+
+.login-form{
+    display: flex;
+    font-weight: bold;
+    flex-direction: column;
+
 }
