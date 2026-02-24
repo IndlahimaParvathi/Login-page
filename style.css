@@ -88,5 +88,12 @@ border: 2px solid black;
 
 }
 
+.login-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
 
 
