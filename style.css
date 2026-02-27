@@ -93,6 +93,13 @@ border: 2px solid black;
     align-items: center;
     justify-content: center;
     height: 100vh;
+
+}
+.hima{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
 
 
